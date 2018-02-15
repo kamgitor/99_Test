@@ -1,0 +1,12 @@
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\bin\Release\Test_proj.exe
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\bin\Release\Test_proj.pdb
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Window1.baml
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Window1.g.cs
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\App.g.cs
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj_MarkupCompile.cache
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.g.resources
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.Properties.Resources.resources
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.csproj.GenerateResource.Cache
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.exe
+C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.pdb
