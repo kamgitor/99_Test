@@ -1,0 +1,12 @@
+k:\ProjektyC#\99_Test_proj\Test_proj\bin\Debug\Test_proj.exe
+k:\ProjektyC#\99_Test_proj\Test_proj\bin\Debug\Test_proj.pdb
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\ResolveAssemblyReference.cache
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Window1.baml
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Window1.g.cs
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\App.g.cs
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Test_proj_MarkupCompile.cache
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Test_proj.g.resources
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Test_proj.Properties.Resources.resources
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Test_proj.csproj.GenerateResource.Cache
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Test_proj.exe
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Debug\Test_proj.pdb

@@ -34,8 +34,9 @@ namespace Test_proj
 		public void Test()
 		{
 			CanSetClass test1 = new CanSetClass(5);
-			const CanSetClass test2 = new CanSetClass(10);			// nie moge zrobic const instance
+			// const CanSetClass test2 = new CanSetClass(10);			// nie moge zrobic const instance
 			// readonly CanSetClass test2 = new CanSetClass(10);
+			// readonly static CanSetClass test2;
 			
 			// Size s = new Size(2, 3);
 			// static readonly Size s = new Size(2, 3);
@@ -87,6 +88,12 @@ namespace Test_proj
 			val = v;
 		}
 
+		
+		// *********************************************************************************************
+		public CanSetClass()
+		{
+			val = 0;
+		}
 
 		// *********************************************************************************************
 		/// <summary>

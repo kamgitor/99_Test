@@ -10,3 +10,15 @@ C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.
 C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.csproj.GenerateResource.Cache
 C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.exe
 C:\Users\Kamil\AppData\Local\Temporary Projects\Test_proj\obj\Release\Test_proj.pdb
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Test_proj.exe
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\ResolveAssemblyReference.cache
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Window1.baml
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Window1.g.cs
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\App.g.cs
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Test_proj_MarkupCompile.cache
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Test_proj.g.resources
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Test_proj.Properties.Resources.resources
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Test_proj.csproj.GenerateResource.Cache
+k:\ProjektyC#\99_Test_proj\Test_proj\bin\Release\Test_proj.exe
+k:\ProjektyC#\99_Test_proj\Test_proj\bin\Release\Test_proj.pdb
+k:\ProjektyC#\99_Test_proj\Test_proj\obj\Release\Test_proj.pdb
